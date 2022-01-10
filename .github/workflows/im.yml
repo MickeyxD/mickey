@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "BrayDanXD/Yuriko"
+          find: "Yuriko"
 
-          replace: "MickeyxD/MICKEYxROBOT"
+          replace: "Mickey"
 
       - name: Create Pull Request
 
